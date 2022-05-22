@@ -1,2 +1,2 @@
 # drawable
-Turn a page background into a drawable canvas
+Turn any page background into a drawable canvas. 
